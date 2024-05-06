@@ -1,6 +1,6 @@
 https://github.com/hiddify/hiddify-next/releases
 
-403online.com
+https://403.online/download
 
 https://poe.com
 
