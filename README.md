@@ -15,7 +15,7 @@ https://chat.openai.com
 
 خلق تصاویر
 https://www.krea.ai
-مونه پرامپت [A small black and white cat is moving along the street in the rainy weather]
+نمونه پرامپت [A small black and white cat is moving along the street in the rainy weather]
 
 
 ساخت پاور پوینت
